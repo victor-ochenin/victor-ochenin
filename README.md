@@ -111,6 +111,8 @@ AI-приложение с Next.js и интеграцией Google AI / AI appl
 ## 📬 Контакты / Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-ochenin)
+- **Email:** [ovsynikovvitaly@gmail.com](mailto:ovsynikovvitaly@gmail.com)
+- **Telegram:** [@Kinggoge8](https://t.me/Kinggoge8)
 
 ---
 
