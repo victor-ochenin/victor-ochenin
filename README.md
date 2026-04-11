@@ -17,21 +17,21 @@ Interesting Full-Stack projects using modern technologies. If you have cool idea
 
 🤝 **Мне нужна помощь с / Looking for help with**
 
-Углублением знаний в Kotlin и Android разработке. Всегда открыт к обмену опытом с коллегами!
+Углублением знаний в Kotlin и Android разработке, оптимизацией MCP-серверов и паттернами мультиагентных систем. Всегда открыт к обмену опытом с коллегами!
 
-Deepening my knowledge in Kotlin and Android development. Always open to exchanging experience with colleagues!
+Deepening my knowledge in Kotlin and Android development, MCP server optimization, and multi-agent system patterns. Always open to exchanging experience with colleagues!
 
 🌱 **Сейчас я изучаю / Currently learning**
 
-Kotlin, Android SDK, Spring Boot 3, React 19, Next.js и современные практики разработки.
+Kotlin, Android SDK, Spring Boot 3, React 19, Next.js, MCP (Model Context Protocol), ACP (Agent Client Protocol) и мультиагентные системы.
 
-Kotlin, Android SDK, Spring Boot 3, React 19, Next.js and modern development practices.
+Kotlin, Android SDK, Spring Boot 3, React 19, Next.js, MCP (Model Context Protocol), ACP (Agent Client Protocol) and multi-agent systems.
 
 💬 **Спроси меня о / Ask me about**
 
-Full-Stack разработке, микросервисах, базах данных и том, как начать путь в программировании.
+Full-Stack разработке, микросервисах, базах данных, MCP-серверах и том, как начать путь в программировании.
 
-Full-Stack development, microservices, databases, and how to start your journey in programming.
+Full-Stack development, microservices, databases, MCP servers, and how to start your journey in programming.
 
 
 # 💻 Tech Stack
@@ -55,7 +55,33 @@ Full-Stack development, microservices, databases, and how to start your journey 
 
 ---
 
+## 🏗️ MCP-экосистема / MCP Ecosystem
+
+Разрабатываю MCP-серверы для расширения возможностей LLM-агентов / Developing MCP servers to extend LLM agent capabilities:
+
+| Проект / Project | Описание / Description |
+|---|---|
+| **[Agent Orchestrator](https://github.com/victor-ochenin/agent-orchestrator-mcp)** | Мультиагентная оркестрация с веб-дашбордом / Multi-agent orchestration with web dashboard |
+| **[Config Finder](https://github.com/victor-ochenin/config-finder-mcp)** | Быстрый поиск конфигов для LLM-агентов / Fast config discovery for LLM agents |
+
+---
+
 ## 📁 Избранные проекты / Selected Projects
+
+### Agent Orchestrator MCP
+Мультиагентная система оркестрации через MCP/ACP протоколы с веб-дашбордом / Multi-agent orchestration system via MCP/ACP protocols with web dashboard  
+`Python` `MCP Server` `ACP Protocol` `Web Dashboard` `JSON-RPC`  
+[🔗 GitHub](https://github.com/victor-ochenin/agent-orchestrator-mcp)
+
+### Config Finder MCP
+MCP-сервер для мгновенного поиска конфигурационных файлов в проектах / MCP server for instant config file discovery in projects  
+`Python` `MCP Server` `File Search` `LLM Agents`  
+[🔗 GitHub](https://github.com/victor-ochenin/config-finder-mcp)
+
+### KanbanDesk
+Android-приложение для управления задачами с Kanban-досками и drag-and-drop / Android task management app with Kanban boards and drag-and-drop  
+`Kotlin` `Java` `Android SDK` `RecyclerView` `Drag-and-Drop API`  
+[🔗 GitHub](https://github.com/victor-ochenin/KanbanDesk)
 
 ### Mockge
 Микросервисная архитектура с Spring Boot и React / Microservice architecture with Spring Boot and React  
@@ -89,14 +115,23 @@ AI-приложение с Next.js и интеграцией Google AI / AI appl
 
 ---
 
+## 🚀 Что нового / What's New
+
+- **Апрель 2026:** Запущены 2 MCP-сервера — Agent Orchestrator и Config Finder
+- **Апрель 2026:** Создан KanbanDesk — Android-приложение для Kanban-досок
+- **Март 2026:** Проект Mockge — микросервисная архитектура с Spring Boot 3 и React 19
+
+---
+
 ## 📊 Статистика / Statistics
 
 | | |
 |---|---|
-| **22+** | Репозиториев на GitHub / GitHub repositories |
-| **6+** | Языков программирования / Programming languages |
-| **10+** | Фреймворков / Frameworks |
+| **25+** | Репозиториев на GitHub / GitHub repositories |
+| **8+** | Языков программирования / Programming languages |
+| **12+** | Фреймворков / Frameworks |
 | **5+** | Баз данных / Databases |
+| **2** | MCP-сервера / MCP Servers |
 
 ---
 
@@ -105,6 +140,12 @@ AI-приложение с Next.js и интеграцией Google AI / AI appl
 ![](https://github-readme-stats.vercel.app/api?username=victor-ochenin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=victor-ochenin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-ochenin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 📈 Активность / Activity
+
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=victor-ochenin&theme=react-dark&hide_border=true)
 
 ---
 
@@ -117,4 +158,5 @@ AI-приложение с Next.js и интеграцией Google AI / AI appl
 ---
 
 > 📅 Дата создания / Created: 24 марта 2026 г. / March 24, 2026  
+> 🔄 Последнее обновление / Last update: 11 апреля 2026 г. / April 11, 2026  
 > © 2026 Оченин Виктор / Victor Ochenin. Все права защищены / All rights reserved.
