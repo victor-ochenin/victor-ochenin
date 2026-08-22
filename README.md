@@ -1,162 +1,43 @@
-# 💫 Оченин Виктор Андреевич | Full-Stack Разработчик
-# 💫 Victor Ochenin | Full-Stack Developer
+# 💫 Оченин Виктор | Full-Stack Developer
 
-## 🌟 Обо мне / About Me
+Full-Stack разработчик: веб-приложения и инструменты для разработчиков.
+Последнее — [Nodomia](https://github.com/victor-ochenin/DiplomTopAcademy_v2): расширение VS Code с RAG-ассистентом (дипломный проект).
 
-🔭 **Сейчас я работаю над / Currently working on**
+## 🔭 Сейчас
 
-Разработкой современных веб-приложений и микросервисных архитектур. Моя цель — превращать сложные идеи в простые и эффективные решения.
+- 🎓 **Nodomia** — тренажёр по React/Vue внутри VS Code: WebView (React) ↔ Extension Host ↔ RAG-сервер (ChromaDB + OpenRouter). Ассистент отвечает строго по материалам курса и проверяет код заданий через LLM, но не пишет его за студента.
+- 🛡️ Участвую в Universal Agent Competition — универсальный ИИ-агент для задач кибербезопасности на малых локальных моделях (pydantic-ai).
+- 🔌 Разрабатываю MCP-серверы: [agent-orchestrator-mcp](https://github.com/victor-ochenin/agent-orchestrator-mcp), [config-finder-mcp](https://github.com/victor-ochenin/config-finder-mcp). Интересуют паттерны мультиагентных систем — открыт к совместным проектам в этой теме.
 
-Developing modern web applications and microservice architectures. My goal is to turn complex ideas into simple and effective solutions.
+## 👯 Сотрудничество
 
-👯 **Я ищу возможности для сотрудничества / Looking to collaborate on**
+Ищу Full-Stack проекты и всё, что связано с ИИ-агентами и MCP.
+🌱 Изучаю: Kotlin, Spring Boot 3, мультиагентные системы.
+💬 Спроси меня о Full-Stack разработке, микросервисах, базах данных и MCP-серверах.
 
-Интересные Full-Stack проекты с использованием современных технологий. Если у тебя есть крутые идеи — давай создавать что-то вместе!
+## 💻 Tech Stack
 
-Interesting Full-Stack projects using modern technologies. If you have cool ideas — let's create something together!
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-🤝 **Мне нужна помощь с / Looking for help with**
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-Углублением знаний в Kotlin и Android разработке, оптимизацией MCP-серверов и паттернами мультиагентных систем. Всегда открыт к обмену опытом с коллегами!
+### 🗄️ Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-Deepening my knowledge in Kotlin and Android development, MCP server optimization, and multi-agent system patterns. Always open to exchanging experience with colleagues!
+### 🐳 DevOps
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
-🌱 **Сейчас я изучаю / Currently learning**
+## 📁 Проекты
 
-Kotlin, Android SDK, Spring Boot 3, React 19, Next.js, MCP (Model Context Protocol), ACP (Agent Client Protocol) и мультиагентные системы.
+| Проект                                                                                              | Что это                                                        | Стек                        |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------- |
+| [Nodomia](https://github.com/victor-ochenin/DiplomTopAcademy_v2)                                    | Тренажёр по React/Vue как расширение VS Code с RAG-ассистентом | TypeScript, React, ChromaDB |
+| [Mockge](https://github.com/victor-ochenin/Mockge)                                                  | Визуальный конструктор API и генератор мок-серверов            | Java, Spring Boot 3, React  |
+| [aura](https://github.com/victor-ochenin/aura)                                                      | AI-ассистент                                                   | Next.js, AI SDK, Convex     |
+| [CarManufacturersMVC](https://github.com/victor-ochenin/CarManufacturersMVC)                        | Управление автомобилями и производителями                      | C#, ASP.NET MVC             |
 
-Kotlin, Android SDK, Spring Boot 3, React 19, Next.js, MCP (Model Context Protocol), ACP (Agent Client Protocol) and multi-agent systems.
+## 📬 Контакты
 
-💬 **Спроси меня о / Ask me about**
-
-Full-Stack разработке, микросервисах, базах данных, MCP-серверах и том, как начать путь в программировании.
-
-Full-Stack development, microservices, databases, MCP servers, and how to start your journey in programming.
-
-
-# 💻 Tech Stack
-
-### ⚛️ Frontend / Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🔧 Backend / Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🗄️ Базы данных / Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🐳 DevOps / DevOps
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🤖 AI/ML (базовое знакомство) / AI/ML (basic familiarity)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-> **⚠️ Примечание / Note:** Имею поверхностный опыт работы с ИИ. Знаком с базовыми концепциями и инструментами, активно изучаю эту область. / I have superficial experience working with AI. Familiar with basic concepts and tools, actively studying this field.
-
----
-
-## 🏗️ MCP-экосистема / MCP Ecosystem
-
-Разрабатываю MCP-серверы для расширения возможностей LLM-агентов / Developing MCP servers to extend LLM agent capabilities:
-
-| Проект / Project | Описание / Description |
-|---|---|
-| **[Agent Orchestrator](https://github.com/victor-ochenin/agent-orchestrator-mcp)** | Мультиагентная оркестрация с веб-дашбордом / Multi-agent orchestration with web dashboard |
-| **[Config Finder](https://github.com/victor-ochenin/config-finder-mcp)** | Быстрый поиск конфигов для LLM-агентов / Fast config discovery for LLM agents |
-
----
-
-## 📁 Избранные проекты / Selected Projects
-
-### Agent Orchestrator MCP
-Мультиагентная система оркестрации через MCP/ACP протоколы с веб-дашбордом / Multi-agent orchestration system via MCP/ACP protocols with web dashboard  
-`Python` `MCP Server` `ACP Protocol` `Web Dashboard` `JSON-RPC`  
-[🔗 GitHub](https://github.com/victor-ochenin/agent-orchestrator-mcp)
-
-### Config Finder MCP
-MCP-сервер для мгновенного поиска конфигурационных файлов в проектах / MCP server for instant config file discovery in projects  
-`Python` `MCP Server` `File Search` `LLM Agents`  
-[🔗 GitHub](https://github.com/victor-ochenin/config-finder-mcp)
-
-### KanbanDesk
-Android-приложение для управления задачами с Kanban-досками и drag-and-drop / Android task management app with Kanban boards and drag-and-drop  
-`Kotlin` `Java` `Android SDK` `RecyclerView` `Drag-and-Drop API`  
-[🔗 GitHub](https://github.com/victor-ochenin/KanbanDesk)
-
-### Mockge
-Микросервисная архитектура с Spring Boot и React / Microservice architecture with Spring Boot and React  
-`Spring Boot 3` `React 19` `PostgreSQL` `Redis` `Docker` `TypeScript`  
-[🔗 GitHub](https://github.com/victor-ochenin/Mockge)
-
-### aura
-AI-приложение с Next.js и интеграцией Google AI / AI application with Next.js and Google AI integration  
-`Next.js 16` `React 19` `AI SDK` `TypeScript` `Radix UI` `Convex`  
-[🔗 GitHub](https://github.com/victor-ochenin/aura)
-
-### World Countries Directory
-Курсовой проект — каталог стран мира / Coursework project — world countries directory  
-`Symfony 6` `PHP 8` `MySQL` `Docker` `Bootstrap 5`  
-[🔗 GitHub](https://github.com/victor-ochenin/World-countries-directory-app)
-
-### IP Validator Angular
-Валидация IP-адресов на Angular 20 с SSR / IP address validation on Angular 20 with SSR  
-`Angular 20` `TypeScript` `Express SSR` `RxJS`  
-[🔗 GitHub](https://github.com/victor-ochenin/IP_Validator_Angular)
-
-### CarManufacturers API & MVC
-Управление автопроизводителями на .NET 9 / Car manufacturers management on .NET 9  
-`.NET 9` `C#` `Entity Framework` `SQL Server` `ASP.NET MVC`  
-[🔗 GitHub](https://github.com/victor-ochenin/CarManufacturersAPI)
-
-### Authentication Sandbox
-Система аутентификации с MongoDB / Authentication system with MongoDB  
-`.NET 9` `C#` `MongoDB` `JWT`  
-[🔗 GitHub](https://github.com/victor-ochenin/AuthenticationSandbox)
-
----
-
-## 🚀 Что нового / What's New
-
-- **Апрель 2026:** Запущены 2 MCP-сервера — Agent Orchestrator и Config Finder
-- **Апрель 2026:** Создан KanbanDesk — Android-приложение для Kanban-досок
-- **Март 2026:** Проект Mockge — микросервисная архитектура с Spring Boot 3 и React 19
-
----
-
-## 📊 Статистика / Statistics
-
-| | |
-|---|---|
-| **25+** | Репозиториев на GitHub / GitHub repositories |
-| **8+** | Языков программирования / Programming languages |
-| **12+** | Фреймворков / Frameworks |
-| **5+** | Баз данных / Databases |
-| **2** | MCP-сервера / MCP Servers |
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=victor-ochenin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=victor-ochenin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-ochenin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📈 Активность / Activity
-
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=victor-ochenin&theme=react-dark&hide_border=true)
-
----
-
-## 📬 Контакты / Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-ochenin)
-- **Email:** [ovsynikovvitaly@gmail.com](mailto:ovsynikovvitaly@gmail.com)
-- **Telegram:** [@Kinggoge8](https://t.me/Kinggoge8)
-
----
-
-> 📅 Дата создания / Created: 24 марта 2026 г. / March 24, 2026  
-> 🔄 Последнее обновление / Last update: 11 апреля 2026 г. / April 11, 2026  
-> © 2026 Оченин Виктор / Victor Ochenin. Все права защищены / All rights reserved.
+[Telegram](https://t.me/Kinggoge8) · ovsynikovvitaly@gmail.com · [GitHub](https://github.com/victor-ochenin)
