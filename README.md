@@ -8,6 +8,7 @@ Full-Stack разработчик: веб-приложения и инструм
 - 🎓 **Nodomia** — тренажёр по React/Vue внутри VS Code: WebView (React) ↔ Extension Host ↔ RAG-сервер (ChromaDB + OpenRouter). Ассистент отвечает строго по материалам курса и проверяет код заданий через LLM, но не пишет его за студента.
 - 🛡️ Участвую в Universal Agent Competition — универсальный ИИ-агент для задач кибербезопасности на малых локальных моделях (pydantic-ai).
 - 🔌 Разрабатываю MCP-серверы: [agent-orchestrator-mcp](https://github.com/victor-ochenin/agent-orchestrator-mcp), [config-finder-mcp](https://github.com/victor-ochenin/config-finder-mcp). Интересуют паттерны мультиагентных систем — открыт к совместным проектам в этой теме.
+- **opencode-docker-panel** — опубликованный npm-плагин для OpenCode 2: панель контейнеров Docker в сайдбаре TUI, действия и compose-стек прямо из строки. [Репозиторий](https://github.com/victor-ochenin/opencodeDockerPlugin)
 
 ## 👯 Сотрудничество
 
@@ -33,9 +34,8 @@ Full-Stack разработчик: веб-приложения и инструм
 
 | Проект                                                                                              | Что это                                                        | Стек                        |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------- |
+| [opencode-docker-panel](https://github.com/victor-ochenin/opencodeDockerPlugin)                    | Панель контейнеров Docker в сайдбаре OpenCode 2, ставится из npm | TypeScript, Solid, OpenTUI |
 | [Nodomia](https://github.com/victor-ochenin/DiplomTopAcademy_v2)                                    | Тренажёр по React/Vue как расширение VS Code с RAG-ассистентом | TypeScript, React, ChromaDB |
-| [Mockge](https://github.com/victor-ochenin/Mockge)                                                  | Визуальный конструктор API и генератор мок-серверов            | Java, Spring Boot 3, React  |
-| [aura](https://github.com/victor-ochenin/aura)                                                      | AI-ассистент                                                   | Next.js, AI SDK, Convex     |
 | [CarManufacturersMVC](https://github.com/victor-ochenin/CarManufacturersMVC)                        | Управление автомобилями и производителями                      | C#, ASP.NET MVC             |
 
 ## 📬 Контакты
